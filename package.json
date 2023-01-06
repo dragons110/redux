@@ -14,7 +14,7 @@
   "devDependencies": {
     "babel-plugin-import": "^1.6.3",
     "react-app-rewired": "^1.4.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
